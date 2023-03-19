@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Rick-And-Morty-Clock/static/css/main.d8faf4cb.css",
+    "main.js": "/React-Rick-And-Morty-Clock/static/js/main.fe25c399.js",
+    "static/media/mixkit-casino-win-alarm-and-coins-1990.mp3": "/React-Rick-And-Morty-Clock/static/media/mixkit-casino-win-alarm-and-coins-1990.53a1281e223d6aa60bee.mp3",
+    "static/media/rickymonty.png": "/React-Rick-And-Morty-Clock/static/media/rickymonty.ed9fa0be01b38da56af4.png",
+    "index.html": "/React-Rick-And-Morty-Clock/index.html",
+    "main.d8faf4cb.css.map": "/React-Rick-And-Morty-Clock/static/css/main.d8faf4cb.css.map",
+    "main.fe25c399.js.map": "/React-Rick-And-Morty-Clock/static/js/main.fe25c399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8faf4cb.css",
+    "static/js/main.fe25c399.js"
+  ]
+}
